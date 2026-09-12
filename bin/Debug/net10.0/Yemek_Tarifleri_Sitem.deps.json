@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Yemek_Tarifleri_Sitem/1.0.0": {
+        "runtime": {
+          "Yemek_Tarifleri_Sitem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yemek_Tarifleri_Sitem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
